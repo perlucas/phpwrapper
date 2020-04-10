@@ -4,7 +4,10 @@
 
 This library provides a set of generic wrapper classes that can be used for implementing Adapter, Proxy , Null Object, Data Transfer Object or Lazy Loading design patterns in PHP. Below is an explanation about each of these wrapper classes.
 
-[TOC]
+Contents:
+
+- [Wrapper](#heading)
+- [SetterGetterWrapper](#heading-1)
 
 ## Wrapper
 
