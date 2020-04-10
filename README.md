@@ -1,6 +1,6 @@
 # A simple set of PHP wrappers for extending functionality
 
-[![Generic badge](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/perlucas/phpwrapper) [![Generic badge](https://img.shields.io/badge/php-^5.4-green.svg)](https://github.com/perlucas/phpwrapper)
+[![Generic badge](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/perlucas/phpwrapper) [![Generic badge](https://img.shields.io/badge/php->=5.4-green.svg)](https://github.com/perlucas/phpwrapper)
 
 This library provides a set of generic wrapper classes that can be used for implementing Adapter, Proxy , Null Object, Data Transfer Object or Lazy Loading design patterns in PHP. Below is an explanation about each of these wrapper classes.
 
