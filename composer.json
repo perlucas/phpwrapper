@@ -1,0 +1,17 @@
+{
+    "name": "perlucas/phpwrapper",
+    "description": "A simple PHP set of wrappers for extending functionality",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Lucas",
+            "email": "lukaspereyra8@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "SimpleWrapper\\":"src/"
+        }
+    }
+}
