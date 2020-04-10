@@ -6,8 +6,11 @@ This library provides a set of generic wrapper classes that can be used for impl
 
 Contents:
 
-- [Wrapper](#heading)
-- [SetterGetterWrapper](#heading-1)
+- [Wrapper](#Wrapper)
+- [SetterGetterWrapper](#SetterGetterWrapper)
+- [MultipleInstancesWrapper](#MultipleInstancesWrapper)
+- [GenericNullObject](#GenericNullObject)
+- [GhostWrapper](#GhostWrapper)
 
 ## Wrapper
 
